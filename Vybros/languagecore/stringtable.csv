@@ -1,0 +1,7 @@
+Language,original,english,russian,"chinesesimp",
+"emission_label","Emission alert","Emission alert","Оповещение о выбросе","能量喷发警报",
+"emission_warning","Attention! Emission will start soon, run to shelter!","Attention! Emission will start soon, run to shelter!","Внимание! Выброс скоро начнется, бегом в укрытие!","注意!能量喷发即将开始，快去寻找掩体!",
+"emission_start","Attention! Emission has begun, and I hope everyone has found shelter.","Attention! Emission has begun, and I hope everyone has found shelter.","Внимание! Выброс начался, надеюсь все нашли укрытия.","注意！能量喷发已经开始，希望大家都找到掩体了。",
+"emission_end","Attention! Emission has ended, and you can enjoy the area again.","Attention! Emission has ended, and you can enjoy the area again.","Внимание! Выброс закончился, вы можете снова наслаждаться зоной.","注意！能量喷发已经结束，你们可以再次探索禁区。",
+"STR_CfgBlowTablets0","Anabiotic","Anabiotic","Анабиотик","安纳药片",
+"STR_CfgBlowTablets1","An experimental drug developed for research groups operating in the Zone. When used, it causes temporary complete paralysis of the central nervous system.","An experimental drug developed for research groups operating in the Zone. When used, it causes temporary complete paralysis of the central nervous system.","Экспериментальный препарат, разработанный для научно-исследовательских групп, действующих в Зоне. При применении вызывает временный полный паралич ЦНС.","一种为在禁区活动的科研小组研发的实验性药物。使用后会导致中枢神经系统暂时完全麻痹。",

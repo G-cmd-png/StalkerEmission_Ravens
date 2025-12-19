@@ -1,0 +1,27 @@
+💊The classname of the medication:BlowTablets
+
+📖 StalkerEmission Mod Installation Guide
+1. Download the mod & @DayZ-Raven
+
+2. Copy to server root directory
+- Open the \!Workshop folder.
+- Copy @StalkerEmission_Ravens&KilleAI into the DayZServer root directory.
+- Open the \@StalkerEmission_Ravens&KilleAI folder.
+- Copy @StalkerEmission_server into the DayZServer root directory.
+- Copy the Snake_V.bikey into the \DayZServer\keys folder.
+
+3. Install @DayZ-Raven Mod
+
+4. Edit your .bat file
+Add the following parameters:
+Code
+"-mod=@Mod1;@DayZ-Raven;@StalkerEmission_Ravens&KilleAI;" "-serverMod=@ServerMod1;@ServerMod2;@StalkerEmission_server;"
+
+5. Start the server
+Run the .bat file.
+
+6. Start the client
+Open DayZ Launcher.
+Enable @StalkerEmission_Ravens&KilleAI in the “Mods” section.
+
+7. Good Hunting, Stalker.
